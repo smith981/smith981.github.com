@@ -5,8 +5,6 @@ tagline: Professional Blog of Ed Smith
 ---
 {% include JB/setup %}
 
-### Welcome to Texas Web Developer
-
 ### Posts
 
 <ul class="posts">
