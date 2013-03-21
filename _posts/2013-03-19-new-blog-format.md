@@ -6,6 +6,6 @@ category:
 tags: [jekyll]
 ---
 {% include JB/setup %}
-This is an attempt at blogging with new different, [Jekyll](https://github.com/mojombo/jekyll). I had been using Drupal but grew frustrated with the amount of bloat it comes with.
+This is an attempt at blogging with new platform, [Jekyll](https://github.com/mojombo/jekyll). I had been using Drupal but grew frustrated with the amount of bloat it comes with.
 
 Bear with me while I learn how to use this.
