@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "New Blog Format"
-description: ""
+description: "New blogging platform"
 category: 
-tags: []
+tags: [jekyll]
 ---
 {% include JB/setup %}
-This is an attempt at a new blog engine, Jekyll. I had been using Drupal but grew frustrated with the amount of bloat it comes with.
+This is an attempt at blogging with new different, (Jekyll)[https://github.com/mojombo/jekyll]. I had been using Drupal but grew frustrated with the amount of bloat it comes with.
 
 Bear with me while I learn how to use this.
