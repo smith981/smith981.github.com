@@ -140,4 +140,6 @@ body {
 .type-csharp .highlight .s { color: #A31515 }
 .type-csharp .highlight .sc { color: #A31515 }
 
-	
+.code {
+	background-color:none;
+}
