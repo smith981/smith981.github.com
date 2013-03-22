@@ -6,8 +6,6 @@ category:
 tags: [LAMP, Composer, Jenkins]
 ---
 {% include JB/setup %}
-The Ultimate PHP Dev Environment: LAMP, Composer, and Jenkins CI
-
 While attending the Lone Star PHP Conference last weekend, I learned about tools that developers are using to organize their code and keep the development process efficient. If you’re writing unit tests and using a source code versioning system, such as SVN or Git, you might want to try Jenkins CI for PHP.
 
 Jenkins is an expandable, open-source continuous integration server. Basically, Jenkins can be scripted to perform various tasks, such as running your unit tests, sniffing your code for copy and paste or other messes, validating against custom style rules, and graphing the stability of your project. It’s incredible powerful.
