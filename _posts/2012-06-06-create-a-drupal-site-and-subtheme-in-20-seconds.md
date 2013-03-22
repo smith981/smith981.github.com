@@ -20,11 +20,16 @@ Using a makefile cut my site creation time down to about 5 minutes, since I stil
     
 Put both of these in the web root of your **secured development machine.** I use [Zend Server CE][4] as my web stack over OS/X, so I can only guarantee it works in this environment (though I see no reason why it wouldn't work elsewhere).
     
-Once they are in place and (assuming you've previously installed Drush), you should be able to create a site as easily as:<bash> yourname@yourmac/usr/local/zend/apache2/htdocs$ drush make eds\_drush\_makefile.make newsitename yourname@yourmac/usr/local/zend/apache2/htdocs$./setup\_new\_site.sh newsitename </bash> 
+Once they are in place and (assuming you've previously installed Drush), you should be able to create a site as easily as:
+
+```bash
+yourname@yourmac/usr/local/zend/apache2/htdocs$ drush make eds\_drush\_makefile.make newsitename 
+yourname@yourmac/usr/local/zend/apache2/htdocs$./setup\_new\_site.sh newsitename
+```
     
 **Update:** I forgot to mention that although the above steps create the database, you will still have to create the database user. This can be done from the command line in less than a minute. Then, don't forget to add the connection info to settings.php.
 
-*eds_drush_makefile.make*
+*eds\_drush\_makefile.make*
 
 ```ini
 ; $Id$;
@@ -147,7 +152,7 @@ projects[] = page_title
 ;projects[admin_menu][patch][] = "http://drupal.org/files/issues/admin_menu.long_.31.patch"
 ```
 
-*setup_new_site.sh*
+*setup\_new\_site.sh*
 
 ```bash
 #the following script can be run from htdocs to create a database with the same name as your site folder, and make a new OM sub theme bearing the same name
