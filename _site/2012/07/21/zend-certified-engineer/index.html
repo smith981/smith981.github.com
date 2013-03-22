@@ -3,8 +3,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>New Blog Format</title>
-    <meta name="description" content="New blogging platform">
+    <title>Zend Certified Engineer</title>
+    <meta name="description" content="">
     <meta name="author" content="Ed Smith">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
@@ -91,24 +91,32 @@
       <div class="content">
         
 <div class="page-header">
-  <h1>New Blog Format <small>Professional Blog of Ed Smith</small></h1>
+  <h1>Zend Certified Engineer <small>Professional Blog of Ed Smith</small></h1>
 </div>
 
 <div class="row">
   <div class="span10">
-    <p>This is an attempt at blogging with new platform, <a href="https://github.com/mojombo/jekyll">Jekyll</a>. I had been using Drupal but grew frustrated with the amount of bloat it comes with.</p>
+    <p>After much preparation, I earned my Zend Certified Engineer designation in PHP 5.3 yesterday. The test was fairly difficult, but to Zend&#39;s credit it did follow the manual and their training materials. That said, I was struck by how much the test questions were geared towards interpreting confusing code by hand-- code which would never have been written had best practices been followed. Nevertheless, if you are interested in this certification, I highly recommend Zend&#39;s recorded training, as there is no better preparation (unless of course you can memorize the PHP manual).</p>
 
-<p>Bear with me while I learn how to use this.</p>
+<p>You will certainly learn a lot about the language if you pursue this designation. One of my favorite discoveries is that PHP interprets integers with a leading zero as octal numbers, and failing that, will return 0. For instance:</p>
+<div class="highlight"><pre><code class="php"><span class="cp">&lt;?php</span>
+
+<span class="nv">$a</span> <span class="o">=</span> <span class="mo">05</span><span class="p">;</span> <span class="c1">// 5</span>
+<span class="nv">$b</span> <span class="o">=</span> <span class="mo">06</span><span class="p">;</span> <span class="c1">// 6</span>
+<span class="nv">$c</span> <span class="o">=</span> <span class="mo">07</span><span class="p">;</span> <span class="c1">// 7</span>
+<span class="nv">$d</span> <span class="o">=</span> <span class="mi">08</span><span class="p">;</span> <span class="c1">// 0, because there is no &#39;8&#39; in octal notation</span>
+</code></pre></div>
+<p>Fun stuff which you&#39;d never use unless you were preparing for a certification.</p>
 
     <hr>
     <div class="pagination">
       <ul>
       
-        <li class="prev"><a href="/2013/01/11/new-silex--doctrine-orm-project" title="New Silex / Doctrine ORM Project">&larr; Previous</a></li>
+        <li class="prev disabled"><a>&larr; Previous</a></li>
       
         <li><a href="/archive.html">Archive</a></li>
       
-        <li class="next disabled"><a>Next &rarr;</a>
+        <li class="next"><a href="/2013/01/11/new-silex--doctrine-orm-project" title="New Silex / Doctrine ORM Project">Next &rarr;</a></li>
       
       </ul>
     </div>
@@ -118,7 +126,7 @@
   
   <div class="span4">
     <h4>Published</h4>
-    <div class="date"><span>19 March 2013</span></div>
+    <div class="date"><span>21 July 2012</span></div>
 
   
     <h4>Tags</h4>
@@ -129,7 +137,11 @@
 
   
      
-    	<li><a href="/tags.html#jekyll-ref">jekyll <span>1</span></a></li>
+    	<li><a href="/tags.html#Zend-ref">Zend <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#PHP-ref">PHP <span>2</span></a></li>
+     
+    	<li><a href="/tags.html#certifications-ref">certifications <span>1</span></a></li>
     
   
 

@@ -1,12 +1,12 @@
 
-http://username.github.com/archive.html
-http://username.github.com/atom.xml
-http://username.github.com/categories.html
-http://username.github.com/index.html
-http://username.github.com/pages.html
-http://username.github.com/rss.xml
-http://username.github.com/sitemap.txt
-http://username.github.com/tags.html
+http://smith981.github.com/archive.html
+http://smith981.github.com/atom.xml
+http://smith981.github.com/index.html
+http://smith981.github.com/pages.html
+http://smith981.github.com/rss.xml
+http://smith981.github.com/sitemap.txt
+http://smith981.github.com/tags.html
 
-http://username.github.com/2013/03/19/new-blog-format
-http://username.github.com/lessons/2011/12/29/jekyll-introduction
+http://smith981.github.com/2013/03/19/new-blog-format
+http://smith981.github.com/2013/01/11/new-silex--doctrine-orm-project
+http://smith981.github.com/2012/07/21/zend-certified-engineer
