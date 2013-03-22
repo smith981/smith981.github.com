@@ -11,9 +11,10 @@ When I first started developing Drupal sites, I created each new site manually. 
 I now use a [Drush][1] makefile and a shell script to generate a new site and subtheme in seconds.
 
 When [someone][2] finally convinced me to take the plunge and try Drush, I spent half an hour learning it, and another half hour creating my own personal Drush makefile. It was time well spent. If you've never used this feature in Drush, a makefile tells Drush things like: 
-*   Which version of Drupal to install
-*   Which themes you want installed
-*   Which modules to download
+
+* Which version of Drupal to install
+* Which themes you want installed
+* Which modules to download
 
 Using a makefile cut my site creation time down to about 5 minutes, since I still had to create the database and manually sub theme [OM][3] (my preferred base theme). Hence, I created a shell script to handle this for me. Note: you can easily modify both scripts to work with the Zen base theme if you prefer.
     
@@ -21,7 +22,7 @@ Put both of these in the web root of your **secured development machine.** I use
     
 Once they are in place and (assuming you've previously installed Drush), you should be able to create a site as easily as:<bash> yourname@yourmac/usr/local/zend/apache2/htdocs$ drush make eds\_drush\_makefile.make newsitename yourname@yourmac/usr/local/zend/apache2/htdocs$./setup\_new\_site.sh newsitename </bash> 
     
-**Update: **I forgot to mention that although the above steps create the database, you will still have to create the database user. This can be done from the command line in less than a minute. Then, don't forget to add the connection info to settings.php.
+**Update:** I forgot to mention that although the above steps create the database, you will still have to create the database user. This can be done from the command line in less than a minute. Then, don't forget to add the connection info to settings.php.
 
 *eds_drush_makefile.make*
 
@@ -165,7 +166,7 @@ mv $1/om_html5_subtheme.info $1/$1.info;
 /usr/local/zend/mysql/bin/mysqladmin -S /usr/local/zend/mysql/tmp/mysql.sock -uroot create $1;
 ```
 
-**Update: **If you use a password for your development database's root account, add "-pyourpassword" to the mysqladmin command in setup_new_site.sh.
+**Update:** If you use a password for your development database's root account, add "-pyourpassword" to the mysqladmin command in setup_new_site.sh.
 
 [1]: http://www.drush.org
 [2]: http://www.nickvahalik.com
