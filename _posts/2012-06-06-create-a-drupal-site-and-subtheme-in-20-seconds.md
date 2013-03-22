@@ -23,8 +23,8 @@ Put both of these in the web root of your **secured development machine.** I use
 Once they are in place and (assuming you've previously installed Drush), you should be able to create a site as easily as:
 
 ```bash
-yourname@yourmac/usr/local/zend/apache2/htdocs$ drush make eds\_drush\_makefile.make newsitename 
-yourname@yourmac/usr/local/zend/apache2/htdocs$./setup\_new\_site.sh newsitename
+yourname@yourmac/usr/local/zend/apache2/htdocs$ drush make eds_drush_makefile.make newsitename 
+yourname@yourmac/usr/local/zend/apache2/htdocs$./setup_new_site.sh newsitename
 ```
     
 **Update:** I forgot to mention that although the above steps create the database, you will still have to create the database user. This can be done from the command line in less than a minute. Then, don't forget to add the connection info to settings.php.
