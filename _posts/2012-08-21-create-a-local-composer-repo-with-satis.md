@@ -43,7 +43,7 @@ The `-v` switch triggers verbose mode, which will indicate if a repository was s
 
 *After you run the `build` command above, you'll know you've done this correctly when you visit your repo's URL in a web browser and see something like this that lists all of your repositories:
 
-![Satis repository screenshot](http://www.edsmith.org/sites/default/files/field/image/satisrepo_0.png "Private Composer repository")
+![Satis repository screenshot](http://jolicode.com/media/original/2012/10/satis.png "Private Composer repository")
 
 * In order to take advantage of Composer's autoloading, you may need to reorganize your existing code according to the [PSR-0 standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md). This isn't required, as you can manually list files in your `composer.json` file using the `files` directive, but it will make your life easier in the long run.  
 If you use PSR-0 autoloading, put your source files in the 'src' directory and put this in your `composer.json` file:
