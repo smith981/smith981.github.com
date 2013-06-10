@@ -43,7 +43,7 @@ Bear in mind that *all of this occurred in spite of the widespread public outrag
 
 If there is any doubt that this information is being used for corrupt and illegal purposes, consider what we have learned in only the last year about an administraion elected on the promise of being "the most transparent administration in history":
 
-* An ATF agent of 25 years was [fired](http://www.humanevents.com/2012/10/12/fast-and-furious-the-whistleblower-gets-canned/)-- most likely for going publicabout the infamous "Fast and Furious" operation that ran guns to Mexican drug cartels.
+* An ATF agent of 25 years was [fired](http://www.humanevents.com/2012/10/12/fast-and-furious-the-whistleblower-gets-canned/)-- most likely for going public about the infamous "Fast and Furious" operation that ran guns to Mexican drug cartels.
 
 * Documents detailing the Department of Justice response to the Fast and Furious investigation [were hidden from Congressional oversight](http://www.propublica.org/article/the-facts-behind-obamas-executive-privilege-claim) using "executive privilege"-- the same defense raised by President Nixon during Watergate.
 
