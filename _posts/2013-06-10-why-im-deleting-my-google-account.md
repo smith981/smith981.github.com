@@ -41,7 +41,7 @@ Yesterday, [Edward Snowden, a 29 year old NSA contractor and ex-CIA employee, we
 
 Bear in mind that *all of this occurred in spite of the widespread public outrage that erupted when the Bush Administration's extrajudicial wiretapping program was made public in 2005*. Yet according to the government's own documents, Microsoft, Yahoo, Apple, Google, and Facebook continue building the infrastructure of digital tyranny.
 
-If there is any doubt that this information is being used for corrupt and illegal purposes, consider what we have learned in only the last year about an administraion elected on the promise of being "the most transparent administration in history":
+If there is any doubt that this information is being used for corrupt and illegal purposes, consider that [even the author of the USA PATRIOT Act considers the NSA's PRISM program an overreach](http://www.ibtimes.com/jim-sensenbrenner-republican-author-patriot-act-says-nsa-prism-surveillance-goes-too-far-1297697). Also, consider what we have learned in only the last year about an administraion elected on the promise of being "the most transparent administration in history":
 
 * An ATF agent of 25 years was [fired](http://www.humanevents.com/2012/10/12/fast-and-furious-the-whistleblower-gets-canned/)-- most likely for going public about the infamous "Fast and Furious" operation that ran guns to Mexican drug cartels.
 
@@ -52,6 +52,8 @@ If there is any doubt that this information is being used for corrupt and illega
 * PFC Bradley Manning, accused of leaking video of American helicopters killing noncombatants in Iraq and other diplomatic cables, [has been held in **solitary confinement for 23 hours out of every day**-- conditions described by the United Nations as "tantamount to torture."](http://www.huffingtonpost.com/2012/11/30/bradley-manning-pretrial-hearing-military-wikileaks_n_2220913.html)
 
 * A senior diplomatic official stationed in Tripoli who was present during the Benghazi attack was [ordered not to be be alone with a member of Congress](http://www.examiner.com/article/benghazi-whistleblower-greg-hicks-clinton-knew-about-terror-attack-at-2-a-m) who was investigating the incident.
+
+* The Justice Department [seized](http://www.foxnews.com/politics/2013/05/22/doj-invoked-espionage-act-in-calling-fox-news-reporter-criminal-co-conspirator/) two months worth of phone records for reporters and editors at the Associated Press, and is [trumping up a flimsy, wartime charge of "espionage" against a reporter](http://www.foxnews.com/politics/2013/05/22/doj-invoked-espionage-act-in-calling-fox-news-reporter-criminal-co-conspirator/) for merely doing his job. Yes, that is the same charge President Nixon tried to use against Daniel Ellsberg for leaking the [Pentagon Papers](http://en.wikipedia.org/wiki/Pentagon_Papers).
 
 It's clear that Americans have little reason to trust the government with the boundless powers they have granted themselves. But Big Tech isn't listening.
 
