@@ -37,7 +37,7 @@ What does any of this have to do with Google?
 
 Yesterday, [Edward Snowden, a 29 year old NSA contractor and ex-CIA employee, went public](http://www.guardian.co.uk/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance) with his information on the U.S. Government's massive-- and flatly illegal-- data mining apparatus. Snowden revealed, among other bombshells, a classified document indicating that online services and social media companies have been providing the NSA with direct access to their servers. One can clearly see that Google has been providing this access since January of 2009, with Facebook following in June of 2009, and Apple being the most recent addition in October of 2012 (and yes, Microsoft, PalTalk, Youtube, Skype, and AOL are doing the same thing):
 	
-	![Leaked NSA slide describing direct access to commercial servers](http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/images/prism-slide-5.jpg)
+![Leaked NSA slide describing direct access to commercial servers](http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/images/prism-slide-5.jpg)
 
 Bear in mind that *all of this occurred in spite of the widespread public outrage that erupted when the Bush Administration's extrajudicial wiretapping program was made public in 2005*. Yet Microsoft, Apple, Google, and Facebook continue building the infrastructure of digital tyranny.
 
