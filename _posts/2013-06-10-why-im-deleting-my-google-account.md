@@ -41,7 +41,7 @@ Yesterday, [Edward Snowden, a 29 year old NSA contractor and ex-CIA employee, we
 
 Bear in mind that *all of this occurred in spite of the widespread public outrage that erupted when the Bush Administration's extrajudicial wiretapping program was made public in 2005*. Yet according to the government's own documents, Microsoft, Yahoo, Apple, Google, and Facebook continue building the infrastructure of digital tyranny.
 
-If there is any doubt that this information is being used for corrupt and illegal purposes, consider that [even the author of the USA PATRIOT Act considers the NSA's PRISM program an overreach](http://www.ibtimes.com/jim-sensenbrenner-republican-author-patriot-act-says-nsa-prism-surveillance-goes-too-far-1297697). Also, consider what we have learned in only the last year about an administraion elected on the promise of being "the most transparent administration in history":
+If there is any doubt that this information is being used for corrupt and illegal purposes, consider that [even the author of the USA PATRIOT Act considers the NSA's PRISM program an overreach](http://www.ibtimes.com/jim-sensenbrenner-republican-author-patriot-act-says-nsa-prism-surveillance-goes-too-far-1297697). Also, consider what we have learned in only the last year about an administration elected on the promise of being "the most transparent administration in history":
 
 * An ATF agent of 25 years was [fired](http://www.humanevents.com/2012/10/12/fast-and-furious-the-whistleblower-gets-canned/)-- most likely for going public about the infamous "Fast and Furious" operation that ran guns to Mexican drug cartels.
 
@@ -66,6 +66,8 @@ The only principled resistance to the surveillance nightmare being rolled out be
 Of course, none of us can starve the beast alone, nor can we be completely consistent in our refusal. *But even 80% resistance is infinitely better than nothing.*
 
 **Effective this week, I am deleting my Google account.**
+
+* I will now be using a privacy-respecting comapny, [Startpage](https://www.startpage.com), to run my web searches.
 
 * I already scheduled my Facebook account for permanent deletion (I always hated it anyway).
 
