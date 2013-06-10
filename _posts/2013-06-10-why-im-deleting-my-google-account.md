@@ -43,11 +43,15 @@ Bear in mind that *all of this occurred in spite of the widespread public outrag
 
 If there is any doubt that this information is being used for corrupt and illegal purposes, consider what we have learned in only the last year about an administraion elected on the promise of being "the most transparent administration in history":
 
-	* An ATF agent of 25 years was [fired](http://www.humanevents.com/2012/10/12/fast-and-furious-the-whistleblower-gets-canned/)-- most likely for going public-- about the infamous "Fast and Furious" operation that ran guns to Mexican drug cartels.
-	* Documents detailing the Department of Justice response to the Fast and Furious investigation [were hidden from Congressional oversight](http://www.propublica.org/article/the-facts-behind-obamas-executive-privilege-claim) using "executive privilege"-- the same defense raised by President Nixon during Watergate.
-	* The IRS has used its immense power to [intentionally target the Administration's political opponents](http://www.foxnews.com/politics/2013/06/04/chairman-anti-gay-marriage-group-says-has-proof-irs-leaked-donor-details/), and in some cases, [leaked privileged tax information to pro-Administration operatives](http://thehill.com/blogs/blog-briefing-room/news/299621--report-irs-leaked-confidential-documents-to-investigative-journalists).
-	* PFC Bradley Manning, accused of leaking video of American helicopters killing noncombatants in Iraq and other diplomatic cables, [has been held in **solitary confinement for 23 hours out of every day**-- conditions described by the United Nations as "tantamount to torture."](http://www.huffingtonpost.com/2012/11/30/bradley-manning-pretrial-hearing-military-wikileaks_n_2220913.html)
-	* A senior diplomatic official stationed in Tripoli who was present during the Benghazi attack was [ordered not to be be alone with a member of Congress](http://www.examiner.com/article/benghazi-whistleblower-greg-hicks-clinton-knew-about-terror-attack-at-2-a-m) who was investigating the incident.
+* An ATF agent of 25 years was [fired](http://www.humanevents.com/2012/10/12/fast-and-furious-the-whistleblower-gets-canned/)-- most likely for going public-- about the infamous "Fast and Furious" operation that ran guns to Mexican drug cartels.
+
+* Documents detailing the Department of Justice response to the Fast and Furious investigation [were hidden from Congressional oversight](http://www.propublica.org/article/the-facts-behind-obamas-executive-privilege-claim) using "executive privilege"-- the same defense raised by President Nixon during Watergate.
+
+* The IRS has used its immense power to [intentionally target the Administration's political opponents](http://www.foxnews.com/politics/2013/06/04/chairman-anti-gay-marriage-group-says-has-proof-irs-leaked-donor-details/), and in some cases, [leaked privileged tax information to pro-Administration operatives](http://thehill.com/blogs/blog-briefing-room/news/299621--report-irs-leaked-confidential-documents-to-investigative-journalists).
+
+* PFC Bradley Manning, accused of leaking video of American helicopters killing noncombatants in Iraq and other diplomatic cables, [has been held in **solitary confinement for 23 hours out of every day**-- conditions described by the United Nations as "tantamount to torture."](http://www.huffingtonpost.com/2012/11/30/bradley-manning-pretrial-hearing-military-wikileaks_n_2220913.html)
+
+* A senior diplomatic official stationed in Tripoli who was present during the Benghazi attack was [ordered not to be be alone with a member of Congress](http://www.examiner.com/article/benghazi-whistleblower-greg-hicks-clinton-knew-about-terror-attack-at-2-a-m) who was investigating the incident.
 
 It's clear that Americans have little reason to trust the government with the boundless powers they have granted themselves. But Big Tech isn't listening.
 
@@ -62,12 +66,17 @@ Of course, none of us can starve the beast alone, nor can we be completely consi
 **Effective this week, I am deleting my Google account.**
 
 * I already scheduled my Facebook account for permanent deletion (I always hated it anyway).
+
 * I haven't used any Microsoft online services since college. I enjoy the occasional X-Box 360 game but, in light of the [creepy always-watching / always-listening design of the new X-Box One](http://www.policymic.com/articles/44687/xbox-1-4-reasons-gamers-are-seriously-concerned), I will not be sending buying any more of their junk.
+
 * I haven't used AOL since high school.
+
 * I have a grand total of one YouTube video.
+
 * Due to my job I might be forced to remain on Skype, but I will actively work to find a replacement.
+
 * Realistically, I'm sure that AT&T is just as guilty as Verizon in turning over telephone metadata to the government surveillance creeps. At this time, I have no realistic alternative to keeping my cell phone service. *But, rest assured, when I find a reasonable alternative, they will be losing my business as well.*
 
-This is not the empty protestation of some luddite. I am a professional web developer that has, until this time, used Google extensively. I expect to suffer some inconvenience and even lost business for making this decision. I accept whatever consequences may come as the price of liberty.
+This is not the empty protest of some luddite. I am a professional web developer that has, until this time, used Google extensively. I expect to suffer some inconvenience and even lost business for making this decision. I accept whatever consequences may come as the price of liberty.
 
 Considering the fate that awaits Edward Snowden, **and that he understands what will happen to him as a result of his courageous disclosure**, my inconvenience over the loss of Google is but a pittance.
