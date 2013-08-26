@@ -14,7 +14,7 @@ After a lot of googling, I found that the timezone stamp was not being recognize
 
 After even more googling, it occurred to me that I had not set the default timezone anywhere in my code. I never found out why it defaults to "CST6CDT" or even what this timezone actually means. But adding this to my AppKernel.php solved my problem:
 
-```
+```php
 <?php
 
 class AppKernel extends Kernel
