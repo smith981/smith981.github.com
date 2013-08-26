@@ -3,7 +3,7 @@ layout: post
 title: "An Annoying DateTime Issue in Symfony2 CRUD Generators"
 description: "Or \"Why You Should Always Set the Default Timezone in PHP\""
 category: 
-tags: []
+tags: [PHP, Symfony2, CRUD, DateTime]
 ---
 {% include JB/setup %}
 While building a Symfony 2.3 bundle using [the excellent Crud Generator from MWSimple](https://packagist.org/packages/mwsimple/crud-generator), I kept getting this fatal error when trying to create a new object with a DateTime field:
