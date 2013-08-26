@@ -71,7 +71,7 @@ Of course, none of us can starve the beast alone, nor can we be completely consi
 
 * I already scheduled my Facebook account for permanent deletion (I always hated it anyway).
 
-* I haven't used any Microsoft online services since college. I enjoy the occasional X-Box 360 game but, in light of the [creepy always-watching / always-listening design of the new X-Box One](http://www.policymic.com/articles/44687/xbox-1-4-reasons-gamers-are-seriously-concerned), I will not be sending buying any more of their junk.
+* I haven't used any Microsoft online services since college. I enjoy the occasional X-Box 360 game but, in light of the [creepy always-watching / always-listening design of the new X-Box One](http://www.policymic.com/articles/44687/xbox-1-4-reasons-gamers-are-seriously-concerned), I will not be buying any more of their junk.
 
 * I haven't used AOL since high school.
 
