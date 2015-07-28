@@ -1,1 +1,73 @@
+==================================================================
+https://keybase.io/fonzman357
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://edsmith.org
+  * I am fonzman357 (https://keybase.io/fonzman357) on keybase.
+  * I have a public key with fingerprint 6BAC 864C E839 B48C AEFD  9941 EEEC 4AA1 AF8B 7629
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.14"
+        },
+        "key": {
+            "eldest_kid": "010157707826c31618b52acaeea51ea61bbfc689610f95a183221e93bc0bcd63d60b0a",
+            "fingerprint": "6bac864ce839b48caefd9941eeec4aa1af8b7629",
+            "host": "keybase.io",
+            "key_id": "eeec4aa1af8b7629",
+            "kid": "010157707826c31618b52acaeea51ea61bbfc689610f95a183221e93bc0bcd63d60b0a",
+            "uid": "252c016dbf9adf786830753cb6c93219",
+            "username": "fonzman357"
+        },
+        "service": {
+            "hostname": "edsmith.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1438116639,
+    "expire_in": 157680000,
+    "prev": "20a4968114b2760e884c28a238987fa5f51be08760223025b00c1b15c13f1771",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtkl1oFUcUx++1MWqKrUaplvaiXStqjTczO7uzs7dQX2w19SsiooHGy8zs7L1r
+bnZvdzdJkzSKgdiKiHmoRSVVFCqoiIoPilEUVEwMRcQPlEgeJMWbDxTEj4AS3Inp
+Q6GPnadhzu/8z/+cM+1TP4iVxHsTJ561Nl0ejvcMsNiGc0OrmxXmWY1KqlnhOUe4
+oby5tFYoKaVGNDIaiKTjzXU9SyS3BHPHmTKlXviB47kRBZIkCTWlpUzyMlvkLBGE
+6RrHklEIoG4YwCAq5ghiSJiuUk6FoDoUFEPGbI6JiSGwTZ1CglQVChMxDhi3MLIw
+YIBGBW3HzQg/7zvSooIZ5QRrXBBkMo1EerZlmhoUQnCNUkhtwgysmlFi1gvCfzWj
+jDlNj9n7D/5/9l03JqfqKgcQW8w2qWUbBBMEDB1xhrmJVCjr1gXCHx+87blNtdRF
+uiHHGr3XO1zI0cpexhlhBbVOmE16fiZKzvte6HEvFwWyYZhPybywMS/BBsHS4xJp
+5rhWNMf3+9v3foEwQnnoSFGoIQIhxsgsU8RPeccXaUcSuoEJiI6sI+plO4BqJo5Y
+jakGBoIQjauEqoiYxLCpbuuQCUCikKoioOoMAA4Z1DlENjQMqMiufnQ9JYUinzQT
+SQZOxqVhnS+Ulp3xz4ti8ZJY8cQJ8ofGSqZM++fbrtw3OdYWr+yYsK5549olb3bM
+2P/NqHbp0YdnL21vpy9vmp3KRr/446rpSxr+Xth2+vuurQsTraXPRs5crFiw9+iN
+1xvuflI5XPp08dB313aVptN7HoBN074aYS1Ttu9eVVjmFFW9+jU0f9vrDXzZVVGE
+svzx8cPds+sKxyvfWis+O1Fd3Bp0qJt/mfc2c6RhZLS77euE2r/6r49m3rrw/Eqy
+93IYZy5dc/uP8knr7zz8M7s8s/uL3Oisuz9P6undNrPz9a3EvReFswXnZJ9d82hw
+nbno20OL5t9f2oeazh+8umbFqQOp22Xl1f2FYX/p4M49U/XZEzehgVz7/t8HlaHr
+Zz7tWf7DnFVPjlUk3gE=
+=35po
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fonzman357
+
+==================================================================
 
